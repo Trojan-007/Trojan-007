@@ -1,2 +1,1 @@
-# Trojan
- Mystery In A Box
+Mystery In A Box
